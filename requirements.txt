@@ -1,0 +1,2 @@
+# Requires: forgotten-loop
+# (Not available on PyPI)
